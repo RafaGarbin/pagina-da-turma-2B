@@ -21,8 +21,10 @@
     width: 25%;
 }
 .escola{
+    
     background-image: linear-gradient(rgb(186, 44, 215), rgb(106, 6, 64));
-   
+   color: white;
+   display: flex;
 }
 
 
