@@ -19,8 +19,7 @@
 }
 .imagem-escola{
     width: 25%;
-    justify-content: center;
-    align-items: center;
+    margin: 0 20px;
 }
 .escola{
     background-image: linear-gradient(rgb(186, 44, 215), rgb(106, 6, 64));
