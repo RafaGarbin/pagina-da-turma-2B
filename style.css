@@ -23,13 +23,17 @@
 .escola{
     background-image: linear-gradient(rgb(186, 44, 215), rgb(106, 6, 64));
     color: white;
-   display: flex;
+    display: flex;
+    justify-content: center;
+
 }
 
 .texto-escola{font-size: 20px;}
 
 .escola-conteudo{
     width: 40%;
+    align-items: center;
+    padding: 24px 0;
 }
 
 
