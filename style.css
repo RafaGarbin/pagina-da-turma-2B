@@ -26,6 +26,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 24px 0;
 }
 
 .escola-conteudo{
@@ -33,7 +34,9 @@
  
 }
 
-
+.titulo-escola {
+    padding: 24px 0;
+} 
 
 
 
