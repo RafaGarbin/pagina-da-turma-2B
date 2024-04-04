@@ -19,25 +19,11 @@
 }
 .imagem-escola{
     width: 25%;
-    margin: 0 20px;
 }
 .escola{
     background-image: linear-gradient(rgb(186, 44, 215), rgb(106, 6, 64));
-    color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 24px 0;
+   
 }
-
-.escola-conteudo{
-    width: 35%; 
-}
-
-.titulo-escola {
-    padding: 24px 0;
-} 
-
 
 
 
