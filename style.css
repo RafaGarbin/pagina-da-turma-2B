@@ -18,15 +18,15 @@
 
 }
 .imagem-escola{
-    width: 25%;
+    width: 256px;
+    height: 192px;
 }
 .escola{
     background-image: linear-gradient(rgb(186, 44, 215), rgb(106, 6, 64));
     color: white;
     display: flex;
     justify-content: center;
-    width: 100%;
-    height: 50%;
+
 }
 
 .texto-escola{font-size: 20px;}
